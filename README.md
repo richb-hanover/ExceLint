@@ -2,6 +2,8 @@
 
 ![ExceLint logo](https://github.com/ExceLint/ExceLint/raw/master/ExceLint-logo.png)
 
+# NOTE: This Repository is archived. Current development on ExceLint is taking place in a new repository: [ExceLint-addin](https://github.com/plasma-umass/ExceLint-addin), an addin works for any version of Excel.
+
 ExceLint is an Excel add-in that automatically finds formula errors in spreadsheets.
 
 By [Dan Barowy](http://www.cs.williams.edu/~dbarowy/) (Williams College), [Emery Berger](https://www.emeryberger.com/) (UMass Amherst / Microsoft Research), and [Ben Zorn](https://www.microsoft.com/en-us/research/people/zorn/) (Microsoft Research).
